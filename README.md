@@ -1,49 +1,30 @@
-# Vonge
+Agency Jekyll theme
+====================
 
-Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-![Vonge template screenshot](_screenshot.png)
+# How to use
 
-Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
-The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
+###Portfolio 
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
+Portfolio projects are in '/_posts'
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-jekyll-bookshop-template)
+Images are in '/img/portfolio'
 
-## Features
+###About
 
-* Component library for website building
-* Fully configurable Website
-* Pre-built pages
-* Pre-styled components
-* Blog
-* Category pages
-* Testimonials
-* Portfolio
-* Live editing with [CloudCannon](http://cloudcannon.com/)
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Search engine optimisation
+Images are in '/img/about/'
 
-## Develop
+###Team
 
-Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
+Team members and info are in '_config.yml'
 
-Install the dependencies for Bookshop:
+Images are in '/img/team/'
 
-~~~bash
-$ npm install
-~~~
 
-Install the Jekyll dependencies with [Bundler](http://bundler.io/):
+# Demo
 
-~~~bash
-$ npm run install-jekyll
-~~~
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-Run the website:
-
-~~~bash
-$ npm start
-~~~
+=========
+For more details, read [documentation](http://jekyllrb.com/)
