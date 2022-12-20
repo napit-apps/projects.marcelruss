@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Gotham, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Gotham", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'Gotham-Bold, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Gotham-Light, "Helvetica Neue", Helvetica,Arial,sans-serif'

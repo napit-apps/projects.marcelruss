@@ -4,9 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+font-style: normal;
     overflow-x: hidden;
-    font-family: "Gotham-Black","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Gotham-Light","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -862,6 +862,6 @@ img::-moz-selection {
     background: 0 0;
 }
 
-body {
+font-style: normal;
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
