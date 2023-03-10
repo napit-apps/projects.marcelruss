@@ -8,8 +8,20 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
+teamlead:
+- name: Janine
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: instagram
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
 people:
-- name: Kay Garland
+- name: Janine
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +32,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Silke
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +43,29 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Catrin
+  pic: 3
+  position: Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Simone
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Vanessa
   pic: 3
   position: Lead Developer
   social:
