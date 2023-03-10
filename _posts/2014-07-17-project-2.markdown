@@ -1,14 +1,16 @@
 ---
-title: Athletic Balance light
+title: Athletic Balance Light
 subtitle: Spaß muss sein.
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2023-03-10
+img: athletic-balance-light.jpg
+thumbnail: athletic-balance-light-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Functional Training mit Fokus auf Rücken und fitte Mitte. Keine sprints. keine drills, dafür mit viel Spaß.  
+project-date: 
+client: 
+category: Training
+description: "Athletic Balance Light bezieht sich auf ein abgeschwächtes oder weniger intensives Training, das sich auf die Verbesserung des Gleichgewichts und der Körperkontrolle konzentriert. Diese Trainingsart ist besonders geeignet für Anfänger oder Personen mit eingeschränkter Mobilität oder Verletzungen, die ihr Gleichgewicht verbessern möchten, ohne sich zu überanstrengen. Das Training kann aus einfachen Übungen wie Einbeinigem Stehen, Hüftkreisen und Fußgelenksarbeit bestehen, die die Muskulatur und die Propriozeption verbessern und so das Gleichgewichtsgefühl schulen. Athletic Balance Light kann als eigenständige Trainingseinheit oder als Ergänzung zu anderen Trainingsformen durchgeführt werden, um die Gesamtleistung und Fitness zu verbessern."
+footer: "Functional Training mit Fokus auf Rücken und fitte Mitte. Keine sprints. keine drills, dafür mit viel Spaß.  "
+
 ---

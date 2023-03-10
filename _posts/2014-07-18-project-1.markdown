@@ -3,13 +3,14 @@ title: Athletic Balance
 subtitle: Immer geil.
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2023-03-10
+img: athletic-balance.jpg
+thumbnail: athletic-balance-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 
+client: 
 category: Training
-description: Vom Functional Training bis zum HIIT über DEEPWORK oder Stability Training. Immer anders. Immer mit Beckenboden. Immer leider geil.
+description: "Athletic Balance-Training umfasst verschiedene Übungen und Techniken, die darauf abzielen, das Gleichgewicht und die Körperkontrolle eines Athleten zu verbessern. Dies kann durch gezieltes Krafttraining, propriozeptive Übungen und spezielle Gleichgewichtsübungen erreicht werden, die die Stabilität und Beweglichkeit des Körpers verbessern. Beispiele für Athletic Balance-Übungen können sein: Einbeiniges Stehen, seitliches Ausfallschritt, Hüftbrücken, Kniebeugen auf instabilen Oberflächen und Plankvariationen. Durch regelmäßiges Training des Gleichgewichts können Athleten ihre Leistung in ihrer Sportart verbessern und das Risiko von Verletzungen verringern."
+footer: "Vom Functional Training bis zum HIIT über DEEPWORK oder Stability Training. Immer anders. Immer mit Beckenboden. Immer leider geil."
 
 ---

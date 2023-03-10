@@ -1,15 +1,16 @@
 ---
-title: Athletic Balance light + Kids
+title: Athletic Balance Light + Kids
 subtitle: Hits mit Kids.
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2023-03-10
+img: athletic-balance-light-kids.jpg
+thumbnail: athletic-balance-light-kids-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Functional Training mit Kids von 0-99. Laufeinheiten treffen auf Kraftausdauer.
+project-date: 
+client: 
+category: Training
+description: "Athletic Balance Light mit Kindern bezieht sich auf eine abgeschwächte oder kindgerechte Form des Trainings, das sich auf die Verbesserung des Gleichgewichts und der Körperkontrolle bei Kindern konzentriert. Diese Trainingsart ist besonders geeignet für Kinder im Vorschul- oder Grundschulalter, da sie ihre koordinativen Fähigkeiten und ihre motorischen Fähigkeiten verbessern können. Das Training kann aus spielerischen Übungen wie Balancieren auf Linien oder Matten, Hüpfen auf einem Bein und Fangspielen bestehen, die die Muskulatur und die Propriozeption verbessern und so das Gleichgewichtsgefühl schulen. Athletic Balance Light mit Kindern kann als eigenständige Trainingseinheit oder als Teil eines ganzheitlichen Sportunterrichts durchgeführt werden, um die motorischen Fähigkeiten und die Gesundheit von Kindern zu fördern."
+footer: "Functional Training mit Kids von 0-99. Laufeinheiten treffen auf Kraftausdauer."
 
 ---
