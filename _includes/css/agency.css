@@ -14,6 +14,10 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
+.text-last {
+    margin-bottom: 5em;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }

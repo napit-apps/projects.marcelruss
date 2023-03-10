@@ -8,73 +8,48 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
-teamlead:
-- name: Janine
-  pic: 1
-  position: Lead Designer
-  social:
+teamlead-name: Dein Coach Janine
+teamlead-pic: janine
+teamlead-slogan: "Korrekturfreak mit #jihaa"
+teamlead-description: "Janine Wilhelm steht hinter TEAM Janine. Wenn Herzblut gepaart mit positiver Energie auf Feuer im Popo und fitte Mitte trifft. Ihre Ausbildungen passen auf keine DIN A 4 Seite. Sie ist zertifizierte Functional & Personal Trainerin, DeepWORK® BODYART® Coach, 3 D Rücken Instructor, Prä-und postpartale Gesundheitstrainerin mit Spezialisierung Rectus diastase und Kursleiterin Beckenbodengymnastik §20 + 20a SGB. Und sie leitet als Dozentin das Modul funktionelles Beckenbodentraining für die Sporttherapeuten sowie die Beckenbodenausbildungen für LAUFMAMALAUF." 
+teamlead-motto: "Ihr Motto: Nice & slow bei der Übungsausführung und quick & dirty in der Kommunikation."
+teamlead-social: 
     - title: instagram
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: #    
 
 people:
-- name: Janine
-  pic: 1
-  position: Lead Designer
+- name: Catrin
+  pic: 3
+  slogan: "Dancing queen mit Ausstrahlung"
+  description: "Hot like hell, den Hintern im Griff beim tanzen, unfassbar positiv, ein umwerfendes Lächeln und on top mit ordentlich Bums in den Workouts. Sie rockt die Weilheimer Freitagskurse und hinterlässt Spuren, damit jeder noch am Wochenende an sie denken wird."
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
       url: #
 
 - name: Silke
-  pic: 2
-  position: Lead Marketer
+  pic: silke
+  slogan: "Deepworkrakete mit viel Empathie"
+  description: "Und wenn du denkst, tiefer gehts nicht mehr...doch, bei Silke schon. Definitiiieeef tiefer. Völlig unaufgeregt wirst du in deiner Technik unbemerkt korrigiert und mit einem flott frechen Spruch zum weitermachen motiviert."
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Catrin
-  pic: 3
-  position: Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: instagram
       url: #
 
 - name: Simone
-  pic: 3
-  position: Lead Developer
+  pic: simone
+  slogan: Yogamaster mit Sonne im Herzen
+  description: "Voll im Flow mit ruhiger und kraftvoller Dynamik bringt sie alle zum glitzern und jeden in seine Mitte. Die Stunde vergeht wie im Flug und Mobilisierung kennt keine Grenzen."
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: instagram
       url: #
 
 - name: Vanessa
-  pic: 3
-  position: Lead Developer
+  pic: vanessa
+  slogan: 
+  description:
   social:
-    - title: twitter
+    - title: instagram
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

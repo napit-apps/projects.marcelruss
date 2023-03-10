@@ -14,6 +14,10 @@ font-style: normal;
     color: #{{ site.data.template.color.muted }};
 }
 
+.text-last {
+    margin-bottom: 5em;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
@@ -632,23 +636,27 @@ section h3.section-subheading {
     }
 }
 
-.team-member {
+.team-member
+.team-lead {
     margin-bottom: 50px;
     text-align: center;
 }
 
-.team-member img {
+.team-member 
+.team-lead img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
 
-.team-member h4 {
+.team-member 
+.team-lead h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
 }
 
-.team-member p {
+.team-member 
+.team-lead p {
     margin-top: 0;
 }
 
