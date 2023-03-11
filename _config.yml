@@ -3,15 +3,15 @@ baseurl: ""
 
 # Site settings
 title: TEAM Janine
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: info@teamjanine.de
+description: "Worl.Out.Door, Personal training, Lauf Mama lauf, athletic balance"
 
 
 # Team names, titles and social links
 teamlead-name: Dein Coach Janine
 teamlead-pic: janine
 teamlead-slogan: "Korrekturfreak mit #jihaa"
-teamlead-description: "Janine Wilhelm steht hinter TEAM Janine. Wenn Herzblut gepaart mit positiver Energie auf Feuer im Popo und fitte Mitte trifft. Ihre Ausbildungen passen auf keine DIN A 4 Seite. Sie ist zertifizierte Functional & Personal Trainerin, DeepWORK® BODYART® Coach, 3 D Rücken Instructor, Prä-und postpartale Gesundheitstrainerin mit Spezialisierung Rectus diastase und Kursleiterin Beckenbodengymnastik §20 + 20a SGB. Und sie leitet als Dozentin das Modul funktionelles Beckenbodentraining für die Sporttherapeuten sowie die Beckenbodenausbildungen für LAUFMAMALAUF." 
+teamlead-description: "Janine Wilhelm steht hinter TEAM Janine. Wenn Herzblut gepaart mit positiver Energie auf Feuer im Popo und fitte Mitte trifft. Ihre Ausbildungen passen auf keine DIN A 4 Seite. Sie ist zertifizierte <b>Functional & Personal Trainerin</b>, <b>DeepWORK® BODYART® Coach</b>, <b>3 D Rücken Instructor</b>, <b>Prä-und postpartale Gesundheitstrainerin mit Spezialisierung Rectus diastase und Kursleiterin Beckenbodengymnastik §20 + 20a SGB</b>. Und sie leitet als Dozentin das Modul funktionelles <b>Beckenbodentraining für die Sporttherapeuten</b> sowie die <b>Beckenbodenausbildungen für LAUFMAMALAUF</b>." 
 teamlead-motto: "Ihr Motto: Nice & slow bei der Übungsausführung und quick & dirty in der Kommunikation."
 teamlead-social: 
     - title: instagram
