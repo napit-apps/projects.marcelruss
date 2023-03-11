@@ -3,7 +3,7 @@ title: BODYART
 subtitle: Zeit für dich.
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2023-03-11
 img: bodyart.jpg
 thumbnail: bodyart-thumbnail.jpg
 alt: image-alt
@@ -11,6 +11,6 @@ project-date:
 client: 
 category: Training
 description: "BodyART ist eine Trainingsart, die sich auf Ganzkörpertraining und -dehnung konzentriert und Elemente aus Yoga, Tai-Chi, Pilates, Kampfkünsten und Physiotherapie kombiniert. Das Ziel ist es, Körper, Geist und Seele in Einklang zu bringen und die Körperhaltung, Beweglichkeit und Kraft zu verbessern. Die Übungen werden in fließenden Bewegungen und Atemtechniken ausgeführt, um die Atmung und Durchblutung zu verbessern und Stress abzubauen. BodyART umfasst Übungen, die auf verschiedene Körperregionen abzielen, wie z.B. den Rücken, Bauch, Beine und Arme, und kann je nach Fitnesslevel angepasst werden. Die Trainingsart ist für alle Altersgruppen und Fitnesslevel geeignet und kann als eigenständiges Training oder als Ergänzung zu anderen Sportarten durchgeführt werden."
-footer:  ... ist wie das Leben- gegensätzlich. Einatmen, ausatmen. Anspannen, loslassen. Mobilisieren, stabilisieren. Eine Mischung aus DEEPWORK und Yoga gepaart mit mental reload.
+footer:  BodyART ist wie das Leben - gegensätzlich. Einatmen, ausatmen. Anspannen, loslassen. Mobilisieren, stabilisieren. Eine Mischung aus DEEPWORK und Yoga gepaart mit mental reload.
 
 ---
