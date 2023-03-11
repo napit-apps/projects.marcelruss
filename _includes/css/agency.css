@@ -338,6 +338,18 @@ section h2.section-heading {
     font-size: 40px;
 }
 
+@media(max-width:768px) { 
+    section h2.section-heading {
+        margin-top: 0;
+        margin-bottom: 15px;
+        font-size: 32px;
+    }
+
+    section {
+        padding: 50px 0 10px 0;
+    }
+}
+
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
@@ -347,9 +359,15 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+@media(max-width:768px) {
+    section h3.section-subheading {
+        margin-bottom: 30px;
+    }
+}
+
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0 50px 0;
     }
 }
 
