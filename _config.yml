@@ -26,14 +26,6 @@ people:
     - title: twitter
       url: #
 
-- name: Silke
-  pic: silke
-  slogan: "Deepworkrakete mit viel Empathie"
-  description: "Und wenn du denkst, tiefer gehts nicht mehr...doch, bei Silke schon. Definitiiieeef tiefer. Völlig unaufgeregt wirst du in deiner Technik unbemerkt korrigiert und mit einem flott frechen Spruch zum weitermachen motiviert."
-  social:
-    - title: instagram
-      url: #
-
 - name: Simone
   pic: simone
   slogan: Yogamaster mit Sonne im Herzen
@@ -42,10 +34,18 @@ people:
     - title: instagram
       url: #
 
+- name: Silke
+  pic: silke
+  slogan: "Deepworkrakete mit viel Empathie"
+  description: "Und wenn du denkst, tiefer gehts nicht mehr...doch, bei Silke schon. Definitiiieeef tiefer. Völlig unaufgeregt wirst du in deiner Technik unbemerkt korrigiert und mit einem flott frechen Spruch zum weitermachen motiviert."
+  social:
+    - title: instagram
+      url: #
+
 - name: Vanessa
   pic: vanessa
-  slogan: 
-  description:
+  slogan: Kreativer Kopf mit Charme
+  description: Die kreative unter uns Raketen, die die Anstrengung im Kurs beim Bingo spielen mit einem charmanten Lächeln wegzaubert und direkt 
   social:
     - title: instagram
       url: #
