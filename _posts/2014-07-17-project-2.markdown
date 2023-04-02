@@ -10,7 +10,7 @@ alt: image-alt
 project-date: 
 client: 
 category: Training
-description: "Athletic Balance Light bezieht sich auf ein abgeschwächtes oder weniger intensives Training, das sich auf die Verbesserung des Gleichgewichts und der Körperkontrolle konzentriert. Diese Trainingsart ist besonders geeignet für Anfänger oder Personen mit eingeschränkter Mobilität oder Verletzungen, die ihr Gleichgewicht verbessern möchten, ohne sich zu überanstrengen. Das Training kann aus einfachen Übungen wie Einbeinigem Stehen, Hüftkreisen und Fußgelenksarbeit bestehen, die die Muskulatur und die Propriozeption verbessern und so das Gleichgewichtsgefühl schulen. Athletic Balance Light kann als eigenständige Trainingseinheit oder als Ergänzung zu anderen Trainingsformen durchgeführt werden, um die Gesamtleistung und Fitness zu verbessern."
+description: "Athletic Balance Light bezieht sich auf ein low impact Training- beckenbodenfreundliche und gelenkschonende Cardioeinheiten ohne Sprünge- das sich auf die Verbesserung des Gleichgewichts, der Körperkontrolle und Stärkung der Rückenmuskulatur konzentriert. Diese Trainingsart ist besonders geeignet für Einsteiger, Frauen nach der Rückbildung oder Personen mit eingeschränkter Mobilität oder Verletzungen, die ihr Gleichgewicht verbessern möchten, ohne sich zu überanstrengen. Zum Beispiel einfache Übungen wie Einbeiniges Stehen, Hüftkreisen und Fußgelenksarbeit bestehen, die die Muskulatur und die Propriozeption verbessern und so das Gleichgewichtsgefühl schulen."
 footer: "Functional Training mit Fokus auf Rücken und fitte Mitte. Keine sprints. keine drills, dafür mit viel Spaß.  "
 
 ---

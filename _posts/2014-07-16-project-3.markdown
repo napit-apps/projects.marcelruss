@@ -10,7 +10,7 @@ alt: image-alt
 project-date: 
 client: 
 category: Training
-description: "Athletic Balance Light mit Kindern bezieht sich auf eine abgeschwächte oder kindgerechte Form des Trainings, das sich auf die Verbesserung des Gleichgewichts und der Körperkontrolle bei Kindern konzentriert. Diese Trainingsart ist besonders geeignet für Kinder im Vorschul- oder Grundschulalter, da sie ihre koordinativen Fähigkeiten und ihre motorischen Fähigkeiten verbessern können. Das Training kann aus spielerischen Übungen wie Balancieren auf Linien oder Matten, Hüpfen auf einem Bein und Fangspielen bestehen, die die Muskulatur und die Propriozeption verbessern und so das Gleichgewichtsgefühl schulen. Athletic Balance Light mit Kindern kann als eigenständige Trainingseinheit oder als Teil eines ganzheitlichen Sportunterrichts durchgeführt werden, um die motorischen Fähigkeiten und die Gesundheit von Kindern zu fördern."
+description: "Athletic Balance Light mit Kids ist ebenfalls ein low impact Training, das beckenbodenfreundliche und gelenkschonende Cardioeinheiten ohne Sprünge beinhaltet. Der Schwerpunkt liegt auf der Verbesserung des Gleichgewichts, der Körperkontrolle und Stärkung der Rückenmuskulatur. Diese Trainingsart ist besonders geeignet für Frauen mit Kindern jeden Alters und die kleinen Großen werden in das Training eingebunden . Das Training kann aus spielerischen Übungen wie Balancieren auf Linien, Ball werfen und Fangspielen bestehen, die die Muskulatur und die Propriozeption verbessern und so motorische Fähigkeiten und die kardiovaskuläre Fitness  schulen. Athletic Balance Light mit Kindern fördert die Gesundheit von Mutter und Kind."
 footer: "Functional Training mit Kids von 0-99. Laufeinheiten treffen auf Kraftausdauer."
 
 ---

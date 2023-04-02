@@ -1,0 +1,16 @@
+---
+title: Specials
+subtitle: Zeit für dich.
+layout: default
+modal-id: 13
+date: 2023-03-11
+img: bodyart.jpg
+thumbnail: bodyart-thumbnail.jpg
+alt: image-alt
+project-date: 
+client: 
+category: Trainings
+description: "Komm vorbei und find's heraus..."
+footer:  DEEPWORK, Männerfrischluftdrill, 3-D-Rücken, BODYART Retreat.
+
+---
