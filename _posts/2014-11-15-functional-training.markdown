@@ -4,8 +4,8 @@ subtitle: Zeit für dich.
 layout: default
 modal-id: 11
 date: 2023-03-11
-img: bodyart.jpg
-thumbnail: bodyart-thumbnail.jpg
+img: funktionales-outdooftraining.jpg
+thumbnail: 
 alt: image-alt
 project-date: 
 client: 
