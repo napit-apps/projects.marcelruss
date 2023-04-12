@@ -4,7 +4,7 @@ subtitle: Zeit für dich.
 layout: default
 modal-id: 11
 date: 2023-03-11
-img: funktionales-outdooftraining.jpg
+img: funktionales-outdoortraining.jpg
 thumbnail: 
 alt: image-alt
 project-date: 
