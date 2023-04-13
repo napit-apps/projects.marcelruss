@@ -11,6 +11,6 @@ project-date:
 client: 
 category: Trainings
 description: "Egal was dein Ziel ist - Leistungsverbesserung, Schmerzfreiheit, Rückenkräfitigung oder Mobilisierung - ich gehe den Weg mit dir. No excuses und die Einstellung, dass die richtige Bewegung entscheidend ist, sind der erste Meilenstein. Erstanamnese und Zieldefinition, fünf betreute Einheiten, maßgeschneiderte Trainingspläne, Erfolgskontrolle"
-footer:  So individuell wie DU. Kein Luxus, sondern ein Investment in deinen Körper und deine Gesundheit.
+footer:  So individuell wie Du. Kein Luxus, sondern ein Investment in deinen Körper und deine Gesundheit.
 
 ---
