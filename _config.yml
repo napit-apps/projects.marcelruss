@@ -18,6 +18,14 @@ teamlead-social:
       url: https://www.instagram.com/team_janine_kirchheim/   
 
 people:
+- name: Alex
+  pic: alex
+  slogan: "Pilatesprofi mit Charme"
+  description: "ihre Pilates Matwork Expertise gepaart mit functional Fitness hilft sie dir Kraft, Balance und Beweglichkeit aufs nächste Level zu bringen. Das wohl ansteckendste, most charming Lächeln der Welt macht jedes Workout zum Highlight!"
+  social:
+    - title: twitter
+      url: #
+
 - name: Catrin
   pic: catrin
   slogan: "Dancing queen mit Ausstrahlung"
